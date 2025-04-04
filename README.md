@@ -1,20 +1,26 @@
 # Hi there, I'm Aneesa Shaik 👋  
 ✨ Software Engineer | Mobile Developer | AI Explorer
 
-<div align="right" style="margin-left: 20px;">
-  <img src="https://github.com/aneesa2023/aneesa2023/blob/main/pic.png" alt="Aneesa Shaik" width="200"/>
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      I'm a passionate developer with 5+ years of experience building elegant, scalable mobile & full-stack apps.  
+      I specialize in **Flutter**, **Java**, **Python**, and cloud-native technologies like **AWS**, **CI/CD**, and **serverless architecture**.
+    </td>
+    <td>
+      <img src="https://github.com/aneesa2023/aneesa2023/blob/main/pic.png" alt="Aneesa Shaik" width="200"/>
+    </td>
+  </tr>
+</table>
 
-I'm a passionate developer with 5+ years of experience building elegant, scalable mobile & full-stack apps.  
-I specialize in **Flutter**, **Java**, **Python**, and cloud-native technologies like **AWS**, **CI/CD**, and **serverless architecture**.
-
----
 
 ## 🛠 Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -22,7 +28,6 @@ I specialize in **Flutter**, **Java**, **Python**, and cloud-native technologies
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
----
 
 ## 🚀 Featured Projects
 
@@ -32,7 +37,6 @@ I specialize in **Flutter**, **Java**, **Python**, and cloud-native technologies
 - 🚗 **RU Carpooling** – 🏆 Hackathon-winning app for Rutgers students  
 🔗 [View my Devpost](https://devpost.com/aneesask57)
 
----
 
 ## 📖 Learning
 
@@ -40,14 +44,12 @@ I specialize in **Flutter**, **Java**, **Python**, and cloud-native technologies
 - AI for Visual Computing & Computer Graphics  
 - LLM-powered apps using Claude + ChatGPT APIs  
 
----
 
 ## 🤝 Looking to Collaborate On
 
 - Flutter tools & plugins  
 - AI x Mobile + Education innovations  
 
----
 
 ## 🔗 Connect With Me
 
