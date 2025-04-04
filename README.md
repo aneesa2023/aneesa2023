@@ -1,40 +1,53 @@
-# Hi, I'm Aneesa Shaik 👋
+# Hi there, I'm Aneesa Shaik 👋  
+✨ Software Engineer | Mobile Developer | AI Explorer  
 
-Welcome to my GitHub! I'm a passionate software engineer and mobile developer, focused on building elegant, scalable apps using Flutter and enhancing them with cloud-native services.
 <p align="center">
-  <img src="https://github.com/aneesa2023/aneesa2023/blob/main/pic.png" alt="Aneesa Shaik Profile Illustration" width="600"/>
+  <img src="https://github.com/aneesa2023/aneesa2023/blob/main/pic.png" alt="Aneesa Shaik working" width="500"/>
 </p>
 
-## 💼 Work Experience
+I'm a passionate developer with 5+ years of experience building elegant, scalable mobile & full-stack apps. I specialize in **Flutter**, **Java**, **Python**, and **cloud-native technologies** like **AWS**, **CI/CD**, and **serverless architecture**.
 
-- 💻 5+ years of professional experience in software engineering  
-- 🌍 Built cross-platform apps using **Flutter**, **React**, and **native Android (Java/Kotlin)**  
-- ☁️ Experienced with **AWS**, **CI/CD**, and **infrastructure automation** (Terraform, GitHub Actions)  
-- 🏢 Worked at various statrtups( product based and service based in India fro 4.5 years), and currently at **Rutgers OIT** as a Software Engineer 
+---
 
-## 🔭 I’m currently working on  
-- **SafeDart** – static analyzer for Dart backend frameworks  
-- **EchoPod** – AI-powered podcast generator  
-- **LearnHub** – AI-driven learning path platform  
-- **RU Carpooling** – **Hackathon-winning app** connecting Rutgers students
-[View my Projects here](https://devpost.com/aneesask57)
+### 🔧 Tech Stack
+![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter)
+![Java](https://img.shields.io/badge/-Java-red?logo=java)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
+![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws)
+![FastAPI](https://img.shields.io/badge/-FastAPI-green?logo=fastapi)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions)
+![Firebase](https://img.shields.io/badge/-Firebase-ffca28?logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform)
 
-## 🌱 I’m currently learning  
-- AI for Visual Computing  
-- Advanced Flutter internals and serverless architectures
+---
 
-## 👯 I’m looking to collaborate on  
-- Flutter tools & packages  
-- AI x mobile innovations
+### 🚀 Featured Projects
+- 🛡️ **SafeDart** – Static analyzer for Dart backend frameworks  
+- 🎙️ **EchoPod** – AI-powered podcast generator  
+- 📚 **LearnHub** – AI-driven learning platform  
+- 🚗 **RU Carpooling** – 🏆 Hackathon-winning app for Rutgers students  
+[🔗 View my Devpost](https://devpost.com/aneesask57)
 
-## 🤔 I’m looking for help with  
-- GSoC contributions to Flutter and Zulip  
-- LLM-powered app integration strategies
+---
 
-## 💬 Ask me about  
-- Flutter, AWS, FastAPI, GitHub Actions, AI + Education tools
+### 📚 Learning
+- Advanced Flutter Internals  
+- AI for Visual Computing & Computer Graphics  
+- LLM-powered apps using Claude + ChatGPT APIs  
 
-## 📫 How to reach me  
-- ✉️ [Email](aneesask57@gmail.com) 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aneesa-sk/)  
-- 🖥️ [GitHub](https://github.com/aneesa2023)
+---
+
+### 🤝 Looking to Collaborate On
+- Flutter tools & plugins  
+- AI x Mobile + Education innovations  
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/aneesa-sk/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat)](mailto:aneesask57@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/aneesa2023)
+
+---
