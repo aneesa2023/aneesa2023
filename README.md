@@ -1,6 +1,9 @@
 # Hi, I'm Aneesa Shaik 👋
 
 Welcome to my GitHub! I'm a passionate software engineer and mobile developer, focused on building elegant, scalable apps using Flutter and enhancing them with cloud-native services.
+<p align="center">
+  <img src="https://github.com/aneesa2023/aneesa2023/blob/main/pic.png" alt="Aneesa Shaik Profile Illustration" width="600"/>
+</p>
 
 ## 💼 Work Experience
 
