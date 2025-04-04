@@ -1,11 +1,10 @@
-# Hi there, I'm Aneesa Shaik 👋  
-✨ Software Engineer | Mobile Developer | AI Explorer
-
 <table>
   <tr>
     <td width="60%">
+      <h1>Hi there, I'm Aneesa Shaik 👋</h1>
+      <p>✨ Software Engineer | Mobile Developer | AI Explorer</p>
       I'm a passionate developer with 5+ years of experience building elegant, scalable mobile & full-stack apps.  
-      I specialize in **Flutter**, **Java**, **Python**, and cloud-native technologies like **AWS**, **CI/CD**, and **serverless architecture**.
+      I specialize in <strong>Flutter</strong>, <strong>Java</strong>, <strong>Python</strong>, and cloud-native technologies like <strong>AWS</strong>, <strong>CI/CD</strong>, and <strong>serverless architecture</strong>.
     </td>
     <td>
       <img src="https://github.com/aneesa2023/aneesa2023/blob/main/pic.png" alt="Aneesa Shaik" width="200"/>
@@ -13,6 +12,7 @@
   </tr>
 </table>
 
+---
 
 ## 🛠 Tech Stack
 
@@ -28,6 +28,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
+---
 
 ## 🚀 Featured Projects
 
@@ -37,6 +38,7 @@
 - 🚗 **RU Carpooling** – 🏆 Hackathon-winning app for Rutgers students  
 🔗 [View my Devpost](https://devpost.com/aneesask57)
 
+---
 
 ## 📖 Learning
 
@@ -44,15 +46,25 @@
 - AI for Visual Computing & Computer Graphics  
 - LLM-powered apps using Claude + ChatGPT APIs  
 
+---
 
 ## 🤝 Looking to Collaborate On
 
 - Flutter tools & plugins  
 - AI x Mobile + Education innovations  
 
+---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aneesa-sk/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aneesask57@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/aneesa2023)
+<p>
+  <a href="https://linkedin.com/in/aneesa-sk/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:aneesask57@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/aneesa2023">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
