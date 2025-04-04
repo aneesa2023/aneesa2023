@@ -2,8 +2,8 @@
   <tr>
     <td width="60%">
       <h1>Hi there, I'm Aneesa Shaik 👋</h1>
-      <p>✨ Software Engineer | Mobile Developer | AI Explorer</p>
-      I'm a passionate developer with 5+ years of experience building elegant, scalable mobile & full-stack apps.  
+      <p>✨ Software Engineer | Full Stack Developer | AI Explorer | Mobile Apps Development </p>
+      I'm a passionate developer with 5+ years of experience building meaningfull, scalable mobile & full-stack apps.  
       I specialize in <strong>Flutter</strong>, <strong>Java</strong>, <strong>Python</strong>, and cloud-native technologies like <strong>AWS</strong>, <strong>CI/CD</strong>, and <strong>serverless architecture</strong>.
     </td>
     <td>
@@ -11,8 +11,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## 🛠 Tech Stack
 
@@ -28,8 +26,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
----
-
 ## 🚀 Featured Projects
 
 - 🎯 **SafeDart** – Static analyzer for Dart backend frameworks  
@@ -38,22 +34,16 @@
 - 🚗 **RU Carpooling** – 🏆 Hackathon-winning app for Rutgers students  
 🔗 [View my Devpost](https://devpost.com/aneesask57)
 
----
-
 ## 📖 Learning
 
 - Advanced Flutter Internals  
 - AI for Visual Computing & Computer Graphics  
 - LLM-powered apps using Claude + ChatGPT APIs  
 
----
-
 ## 🤝 Looking to Collaborate On
 
 - Flutter tools & plugins  
 - AI x Mobile + Education innovations  
-
----
 
 ## 🔗 Connect With Me
 
