@@ -1,8 +1,8 @@
 # Hi there, I'm Aneesa Shaik 👋  
 ✨ Software Engineer | Mobile Developer | AI Explorer  
 
-<p align="center">
-  <img src="https://github.com/aneesa2023/aneesa2023/blob/main/pic.png" alt="Aneesa Shaik working" width="500"/>
+<p align="right">
+  <img src="https://github.com/aneesa2023/aneesa2023/blob/main/pic.png" alt="Aneesa Shaik working" width="150"/>
 </p>
 
 I'm a passionate developer with 5+ years of experience building elegant, scalable mobile & full-stack apps. I specialize in **Flutter**, **Java**, **Python**, and **cloud-native technologies** like **AWS**, **CI/CD**, and **serverless architecture**.
