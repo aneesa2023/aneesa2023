@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td width="60%">
+    <td width="70%" height="10%">
       <h1>Hi there, I'm Aneesa Shaik 👋</h1>
-      <p>✨ Software Engineer | Full Stack Developer | AI Explorer | Mobile Apps Development </p>
+      <p>Software Engineer | Full Stack Developer | AI Explorer | Mobile Apps Development </p>
       I'm a passionate developer with 5+ years of experience building meaningfull, scalable mobile & full-stack apps.  
       I specialize in <strong>Flutter</strong>, <strong>Java</strong>, <strong>Python</strong>, and cloud-native technologies like <strong>AWS</strong>, <strong>CI/CD</strong>, and <strong>serverless architecture</strong>.
     </td>
@@ -13,7 +13,6 @@
 </table>
 
 ## 🛠 Tech Stack
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,7 +26,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## 🚀 Featured Projects
-
 - 🎯 **SafeDart** – Static analyzer for Dart backend frameworks  
 - 🎧 **EchoPod** – AI-powered podcast generator  
 - 📚 **LearnHub** – AI-driven learning platform  
@@ -35,17 +33,13 @@
 🔗 [View my Devpost](https://devpost.com/aneesask57)
 
 ## 📖 Learning
-
 - Advanced Flutter Internals  
 - AI for Visual Computing & Computer Graphics  
 - LLM-powered apps using Claude + ChatGPT APIs  
 
 ## 🤝 Looking to Collaborate On
-
 - Flutter tools & plugins  
 - AI x Mobile + Education innovations  
-
-## 🔗 Connect With Me
 
 <p>
   <a href="https://linkedin.com/in/aneesa-sk/">
@@ -57,4 +51,7 @@
   <a href="https://github.com/aneesa2023">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
+<a href="https://leetcode.com/u/aneesask/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+</a>
 </p>
