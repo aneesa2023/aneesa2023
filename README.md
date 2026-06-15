@@ -1,12 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aneesa%20Shaik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Mobile+Engineer+%E2%80%A2+AI+%E2%80%A2+Full-Stack;Building+intelligent+apps+that+ship+at+scale" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mobile+Engineer+%E2%80%A2+AI+%E2%80%A2+Full-Stack&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=28&desc=Building+intelligent+apps+that+ship+at+scale&descSize=18&descColor=fff&descAlignY=52"/>
 
 <br/>
 
