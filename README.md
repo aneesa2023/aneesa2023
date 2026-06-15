@@ -13,24 +13,19 @@
 <!-- SOCIAL LINKS -->
 <a href="https://portfolio-aneesa.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-6c63ff?style=flat&logo=vercel&logoColor=white" />
-</a>
-<img src="https://raw.githubusercontent.com/nicedoc/html-to-md/master/.github/transparent.png" width="5"/>
+</a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/aneesa-sk/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://raw.githubusercontent.com/nicedoc/html-to-md/master/.github/transparent.png" width="5"/>
+</a>&nbsp;&nbsp;
 <a href="https://aneesas.hashnode.dev/">
   <img src="https://img.shields.io/badge/Blog-2962FF?style=flat&logo=hashnode&logoColor=white" />
-</a>
-<img src="https://raw.githubusercontent.com/nicedoc/html-to-md/master/.github/transparent.png" width="5"/>
+</a>&nbsp;&nbsp;
 <a href="https://devpost.com/aneesask57">
   <img src="https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white" />
-</a>
-<img src="https://raw.githubusercontent.com/nicedoc/html-to-md/master/.github/transparent.png" width="5"/>
+</a>&nbsp;&nbsp;
 <a href="mailto:aneesask57@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-</a>
-<img src="https://raw.githubusercontent.com/nicedoc/html-to-md/master/.github/transparent.png" width="5"/>
+</a>&nbsp;&nbsp;
 <a href="https://leetcode.com/u/aneesask/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
 </a>
