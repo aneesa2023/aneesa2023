@@ -1,57 +1,272 @@
+<div align="center">
+
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aneesa%20Shaik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Mobile+Engineer+%E2%80%A2+AI+%E2%80%A2+Full-Stack;Building+intelligent+apps+that+ship+at+scale" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- SOCIAL LINKS -->
+<a href="https://portfolio-aneesa.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6c63ff?style=flat&logo=vercel&logoColor=white" />
+</a>
+<img src="https://raw.githubusercontent.com/nicedoc/html-to-md/master/.github/transparent.png" width="5"/>
+<a href="https://linkedin.com/in/aneesa-sk/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<img src="https://raw.githubusercontent.com/nicedoc/html-to-md/master/.github/transparent.png" width="5"/>
+<a href="https://aneesas.hashnode.dev/">
+  <img src="https://img.shields.io/badge/Blog-2962FF?style=flat&logo=hashnode&logoColor=white" />
+</a>
+<img src="https://raw.githubusercontent.com/nicedoc/html-to-md/master/.github/transparent.png" width="5"/>
+<a href="https://devpost.com/aneesask57">
+  <img src="https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white" />
+</a>
+<img src="https://raw.githubusercontent.com/nicedoc/html-to-md/master/.github/transparent.png" width="5"/>
+<a href="mailto:aneesask57@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
+<img src="https://raw.githubusercontent.com/nicedoc/html-to-md/master/.github/transparent.png" width="5"/>
+<a href="https://leetcode.com/u/aneesask/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+## About Me
+
+<img align="right" src="https://github.com/aneesa2023/aneesa2023/blob/main/pic.png" alt="Aneesa Shaik" width="160"/>
+
+Software engineer with **6+ years** building mobile-first products — from zero-to-one mobiel/web apps to full-stack systems that ship at scale.
+
+I integrate **AI deeply into my development workflow** — designing agentic systems, building custom MCP servers, crafting AI-powered skills, and leveraging tools like **Claude Code** and **Cursor** to ship faster and smarter.
+
+Shipped production apps across **healthcare, education, and logistics**, integrating AWS Bedrock, Claude & OpenAI APIs, and FastAPI backends — with Flutter, React, Kotlin, Swift as my layers of choice.
+
+**M.S. in Computer Science, Rutgers University**
+
+<br clear="right"/>
+
+---
+
+## Technical Skills
+
 <table>
-  <tr>
-    <td width="70%" height="10%">
-      <h1>Hi there, I'm Aneesa Shaik 👋</h1>
-      <p>Software Engineer | Full Stack Developer | AI Explorer | Mobile Apps Development </p>
-      I'm a passionate developer with 5+ years of experience building meaningfull, scalable mobile & full-stack apps.  
-      I specialize in <strong>Flutter</strong>, <strong>Java</strong>, <strong>Python</strong>, and cloud-native technologies like <strong>AWS</strong>, <strong>CI/CD</strong>, and <strong>serverless architecture</strong>.
-    </td>
-    <td>
-      <img src="https://github.com/aneesa2023/aneesa2023/blob/main/pic.png" alt="Aneesa Shaik" width="200"/>
-    </td>
-  </tr>
+<tr>
+<td>
+
+**Languages**
+
+</td>
+<td>
+
+`Python` `Java` `Dart` `Swift` `Kotlin` `JavaScript` `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Mobile & Frontend**
+
+</td>
+<td>
+
+`Flutter` `React` `Jetpack Compose` `SwiftUI` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Backend & Cloud**
+
+</td>
+<td>
+
+`FastAPI` `REST` `GraphQL` `DynamoDB` `MongoDB` `Firebase` `AWS` `GCP`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**AI & Tooling**
+
+</td>
+<td>
+
+`Claude Code` `Cursor` `MCP Servers` `AWS Bedrock` `LangChain` `AI Agents`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**DevOps**
+
+</td>
+<td>
+
+`Docker` `GitHub Actions` `Jenkins` `OAuth` `Microservices`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Testing**
+
+</td>
+<td>
+
+`Playwright` `E2E Testing` `API Testing` `Test Automation`
+
+</td>
+</tr>
 </table>
 
-## 🛠 Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+---
 
-## 🚀 Featured Projects
-- 🎯 **SafeDart** – Static analyzer for Dart backend frameworks  
-- 🎧 **EchoPod** – AI-powered podcast generator  
-- 📚 **LearnHub** – AI-driven learning platform  
-- 🚗 **RU Carpooling** – 🏆 Hackathon-winning app for Rutgers students  
-🔗 [View my Devpost](https://devpost.com/aneesask57)
+## Featured Projects
 
-## 📖 Learning
-- Advanced Flutter Internals  
-- AI for Visual Computing & Computer Graphics  
-- LLM-powered apps using Claude + ChatGPT APIs  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🤝 Looking to Collaborate On
-- Flutter tools & plugins  
-- AI x Mobile + Education innovations  
+### <a href="https://devpost.com/software/rucarpooling-yoet12">RU Carpooling</a>
 
-<p>
-  <a href="https://linkedin.com/in/aneesa-sk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:aneesask57@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/aneesa2023">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
-  </a>
-<a href="https://leetcode.com/u/aneesask/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-</a>
-</p>
+<img src="https://img.shields.io/badge/Hackathon_Winner-FFD700?style=flat-square&logoColor=black" alt="Winner"/>
+
+Flutter ride-sharing app for Rutgers students — real-time matching, in-app chat, and route optimization to cut campus commute costs and emissions.
+
+`Flutter` `Firebase` `Google Maps`
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://devpost.com/software/learnhub-j0opiu">LearnHub</a>
+
+<img src="https://img.shields.io/badge/Hackathon_Winner-FFD700?style=flat-square&logoColor=black" alt="Winner"/>
+
+AI-curated learning paths in seconds. Enter a topic, get structured chapters, notes, and curated videos — powered by AWS Bedrock + YouTube API.
+
+`AWS Bedrock` `Python` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://devpost.com/software/the-dental-dispatcher">The Dental Dispatcher</a>
+
+Multimodal AI voice assistant for dental clinics — analyzes X-rays, explains findings, manages refills, and tracks history through natural phone conversations.
+
+`Claude` `FastAPI` `Twilio`
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://devpost.com/software/swiftaid-zd3y6k">SwiftAid</a>
+
+Emergency AI at the speed of a call. Streams live 911-style calls into an AI engine to deliver instant spoken safety guidance and auto-alert first responders.
+
+`OpenAI` `FastAPI` `WebSocket`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://devpost.com/software/mentor-bridge">MentorBridge</a>
+
+Mentorship reimagined for women in tech. AI-powered matching that connects mentees with mentors aligned to their goals, communication style, and career trajectory.
+
+`LangChain` `MongoDB` `React`
+
+</td>
+<td width="50%" valign="top">
+
+<br/><br/>
+
+<div align="center">
+
+**[See all projects on Devpost](https://devpost.com/aneesask57)**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## What I'm Working On
+
+<table>
+<tr>
+<td width="60">⚡</td>
+<td><b>AI-Powered Dev Workflows</b> — designing end-to-end development workflows with Claude Code, Cursor, and custom tooling</td>
+</tr>
+<tr>
+<td width="60">🔧</td>
+<td><b>MCP Servers & Skills</b> — building custom MCP integrations and agent skills that extend what AI tools can do</td>
+</tr>
+<tr>
+<td width="60">🤖</td>
+<td><b>AI Agents</b> — multi-step tool-calling agents that automate real engineering tasks</td>
+</tr>
+<tr>
+<td width="60">📱</td>
+<td><b>AI × Mobile</b> — integrating AI capabilities into Flutter apps with on-device and cloud-hybrid approaches</td>
+</tr>
+</table>
+
+Writing about what I learn at **[aneesas.hashnode.dev](https://aneesas.hashnode.dev/)**
+
+---
+
+## Looking to Collaborate On
+
+<table>
+<tr>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/AI_×_Mobile-6C63FF?style=for-the-badge&logoColor=white" alt="AI Mobile"/>
+<br/><br/>
+<sub>AI-powered features inside Flutter apps</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logoColor=white" alt="Agents"/>
+<br/><br/>
+<sub>Agentic systems & dev workflows</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/Hackathons-E10098?style=for-the-badge&logoColor=white" alt="Hackathons"/>
+<br/><br/>
+<sub>Health, education, or accessibility</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/Research-3178C6?style=for-the-badge&logoColor=white" alt="Research"/>
+<br/><br/>
+<sub>Mobile × Applied AI</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
