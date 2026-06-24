@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mobile+Engineer+%E2%80%A2+AI+%E2%80%A2+Full-Stack&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=28&desc=Building+intelligent+apps+that+ship+at+scale&descSize=18&descColor=fff&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Software+Engineer+%E2%80%A2+AI+%E2%80%A2+Full-Stack&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=28&desc=Building+intelligent+apps+that+ship+at+scale&descSize=18&descColor=fff&descAlignY=52"/>
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 <img align="right" src="https://github.com/aneesa2023/aneesa2023/blob/main/pic.png" alt="Aneesa Shaik" width="160"/>
 
-Software engineer with **6+ years** building mobile-first products — from zero-to-one mobiel/web apps to full-stack systems that ship at scale.
+Software engineer building meaningful products — from zero-to-one mobiel/web applications to full-stack systems that ship at scale.
 
 I integrate **AI deeply into my development workflow** — designing agentic systems, building custom MCP servers, crafting AI-powered skills, and leveraging tools like **Claude Code** and **Cursor** to ship faster and smarter.
 
